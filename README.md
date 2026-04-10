@@ -24,7 +24,7 @@ ajit = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ### 💻 Languages & Core
 <p align="left">
